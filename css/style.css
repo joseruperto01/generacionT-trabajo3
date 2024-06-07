@@ -1,0 +1,59 @@
+h1 {
+    text-align: center;
+}
+
+.contenedor1 {
+    border: 5px ridge salmon;
+    height: 100vh;
+    width: 100%;
+}
+
+.contenedor2 {
+    /*border: 1px solid black;*/
+    height: 100vh;
+    width: 30vw;
+    float: right;
+}
+
+.contenedor3 {
+    /*border: 3px ridge rgb(114, 155, 250);*/
+    height: 100vh;
+    width: 30vw;
+    float: left;
+}
+
+.contenedor4 {
+    border: 2px solid black;
+    height: 88vh;
+    width: 37vw;
+    float: right;
+    margin-top: 74px;
+}
+
+ul {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+ul li {
+    margin: auto;
+    list-style-type: none;
+    border: 1px solid black;
+    padding: 7px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+header {
+    background-color: rgba(219, 21, 61, 0.88);
+    height: 5rem;
+    position: fixed;
+    width: 100%;
+}
+
+.parte2 {
+    border: 5px ridge salmon;
+    height: 100vh;
+    width: 100%;
+}
